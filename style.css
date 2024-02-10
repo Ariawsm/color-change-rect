@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#rect {
+  height: 8rem;
+  width: 16rem;
+  border: 2px solid black;
+  cursor: pointer;
+}
